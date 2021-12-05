@@ -6,6 +6,7 @@ My goal is to start developing my portfolio and ideally start working remote job
 I’d be glad to collaborate on any kind of project that would further my education as a software developer.
 
 <h2>📜 My degrees:</h2>
+
   - BA in Communication studies (University of Alabama at Birmingham)
   - Master in Public Administration (University of Tennessee at Chattanooga)
  
