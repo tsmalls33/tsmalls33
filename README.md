@@ -1,9 +1,9 @@
 <h1>👋 Hi, I’m Thomas Smallwood.</h1>
 
-I have been a professional basketball player in Europe since August 2019.
-I’m currently learning software development with my free time on a daily basis.
-My goal is to start developing my portfolio and ideally start working remote jobs in that field while I am still playing basketball.
-I’d be glad to collaborate on any kind of project that would further my education as a software developer.
+I have been a professional basketball player in Europe since August 2019. 
+I am currently learning software and web development in my free time on a daily basis. 
+My goal is to start developing my portfolio and start working remotely in this field while I am still playing basketball. 
+I’d be glad to collaborate on any kind of project that would further my education as a software/web developer.
 
 <h2>📜 My degrees:</h2>
 
