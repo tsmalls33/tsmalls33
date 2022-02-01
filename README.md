@@ -17,7 +17,7 @@ I’d be glad to collaborate on any kind of project that would further my educat
   - <strong>email:</strong> tbm.smallwood@gmail.com
   - <strong>Instagram:</strong> @tootaaall
   - <strong>Twitter:</strong> @tootall_small
-  - <strong>My website:</strong> https://tsmalls33.github.io
+  - <strong>My website:</strong> https://thomas-smallwood.com
   - <strong>🏀 My player profile in case you are curious:</strong> www.twopoints.it/players/player/thomas-smallwood/
   
 
