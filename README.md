@@ -17,5 +17,6 @@ I’d be glad to collaborate on any kind of project that would further my educat
   - <strong>email:</strong> tbm.smallwood@gmail.com
   - <strong>Instagram:</strong> @tootaaall
   - <strong>Twitter:</strong> @tootall_small
+  - <strong>WhatsApp:</strong> +33 7 64 21 24 05
   
 
