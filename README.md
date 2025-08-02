@@ -1,14 +1,16 @@
 <h1>👋 Hi, I’m Thomas Smallwood.</h1>
 
-I have been a professional basketball player in Europe since August 2019. 
-I am currently learning software and web development in my free time on a daily basis. 
-My goal is to start developing my portfolio and start working remotely in this field while I am still playing basketball. 
-I’d be glad to collaborate on any kind of project that would further my education as a software/web developer.
+I’m a professional basketball player in Europe since 2019, now deeply committed to building a career in software and web development. Over the past few years, I’ve been learning and coding daily—working through real-world projects and collaborating with mentors.
+
+My focus is on backend and full-stack development, currently using technologies like Python, JavaScript, TypeScript, NestJS, and FastAPI. I’m especially interested in clean architecture, data modeling, and building tools that solve real problems.
+
+I’m always open to collaborating on projects that push me to learn and grow as a developer. Feel free to reach out if you’re working on something interesting.
 
 <h2>📜 My degrees:</h2>
 
   - BA in Communication studies (University of Alabama at Birmingham)
   - Master in Public Administration (University of Tennessee at Chattanooga)
+  - CS50 HarvardX Course certification
  
  
 <h2>📫 How to reach me:</h2>
@@ -17,6 +19,6 @@ I’d be glad to collaborate on any kind of project that would further my educat
   - <strong>email:</strong> tbm.smallwood@gmail.com
   - <strong>Instagram:</strong> @tootaaall
   - <strong>Twitter:</strong> @tootall_small
-  - <strong>WhatsApp:</strong> +33 7 64 21 24 05
+  - <strong>WhatsApp:</strong> +34 694 28 83 34
   
 
