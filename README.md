@@ -40,9 +40,14 @@ I'm building a full-stack multi-tenant property management platform that allows 
 
 ### 📬 Let's Connect
 
-I'm open to opportunities and conversations!  
-You can reach me here:
-- [LinkedIn](https://www.linkedin.com/in/thomas-smallwood/)
-- [Email](mailto:thomas.smallwood.basketball@gmail.com)
+I'm actively seeking an **entry-level software developer role** or **paid internship** — remote or hybrid in **Barcelona**.
+
+Feel free to reach out:
+
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/thomas-smallwood/)
+- 📧 [Email me](mailto:tbm.smallwood@gmail.com)
+- 💬 [Message me on WhatsApp](https://wa.me/34694288334)
+
+I’m always open to meaningful conversations, collaborations, or opportunities to grow as a developer.
 
 Thanks for stopping by! 🚀
