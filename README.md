@@ -1,24 +1,48 @@
-<h1>👋 Hi, I’m Thomas Smallwood.</h1>
+# Hi, I'm Thomas 👋
 
-I’m a professional basketball player in Europe since 2019, now deeply committed to building a career in software and web development. Over the past few years, I’ve been learning and coding daily—working through real-world projects and collaborating with mentors.
+I'm a software developer with a background as a professional basketball player. Now, I'm channeling that same discipline and focus into writing clean, maintainable code and building real-world applications.
 
-My focus is on backend and full-stack development, currently using technologies like Python, JavaScript, TypeScript, NestJS, and FastAPI. I’m especially interested in clean architecture, data modeling, and building tools that solve real problems.
+I'm currently developing a real estate management platform under the mentorship of a senior engineer. I’m committed to building a solid foundation in both backend and full-stack development — no shortcuts.
 
-I’m always open to collaborating on projects that push me to learn and grow as a developer. Feel free to reach out if you’re working on something interesting.
+I'm actively looking for a **remote or hybrid entry-level role or internship in Barcelona** (or remote-friendly companies based in Europe).
 
-<h2>📜 My degrees:</h2>
+---
 
-  - BA in Communication studies (University of Alabama at Birmingham)
-  - Master in Public Administration (University of Tennessee at Chattanooga)
-  - CS50 HarvardX Course certification
- 
- 
-<h2>📫 How to reach me:</h2>
+### 🛠️ Tech Stack
 
-  - <strong>LinkedIn:</strong> www.linkedin.com/in/thomas-smallwood
-  - <strong>email:</strong> tbm.smallwood@gmail.com
-  - <strong>Instagram:</strong> @tootaaall
-  - <strong>Twitter:</strong> @tootall_small
-  - <strong>WhatsApp:</strong> +34 694 28 83 34
-  
+- 🟦 TypeScript (NestJS, Next.js)
+- 🐘 PostgreSQL
+- 🐍 Python (FastAPI, Flask)
+- ⚛️ React, JavaScript, HTML, CSS
+- 🧪 Pytest, Git, GitHub, VS Code
 
+---
+
+### 💼 Current Project: Real Estate Management Platform
+
+I'm building a full-stack multi-tenant property management platform that allows agents and property owners to:
+
+- Track earnings and costs per property
+- View guest/reservation details
+- Upload photos and financial reports
+- See upcoming payments and rental income
+
+**Built with:**
+- 🟦 TypeScript
+- 🚀 NestJS (backend)
+- ⚛️ Next.js (frontend)
+- 🐘 PostgreSQL
+
+📌 [Repo coming soon – stay tuned!]  
+📸 Screenshots and live demo coming in the next update!
+
+---
+
+### 📬 Let's Connect
+
+I'm open to opportunities and conversations!  
+You can reach me here:
+- [LinkedIn](https://www.linkedin.com/in/thomas-smallwood/)
+- [Email](mailto:thomas.smallwood.basketball@gmail.com)
+
+Thanks for stopping by! 🚀
