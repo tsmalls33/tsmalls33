@@ -6,15 +6,17 @@ I'm currently developing a real estate management platform under the mentorship 
 
 I'm actively looking for a **remote or hybrid entry-level role or internship in Barcelona** (or remote-friendly companies based in Europe).
 
+🌐 **Check out my portfolio:** [tsmalls33.github.io](https://tsmalls33.github.io)
+
 ---
 
 ### 🛠️ Tech Stack
 
-- 🟦 TypeScript (NestJS, Next.js)
-- 🐘 PostgreSQL
-- 🐍 Python (FastAPI, Flask)
-- ⚛️ React, JavaScript, HTML, CSS
-- 🧪 Pytest, Git, GitHub, VS Code
+- 🟦 TypeScript (NestJS, Next.js)  
+- 🐘 PostgreSQL  
+- 🐍 Python (FastAPI, Flask)  
+- ⚛️ React, JavaScript, HTML, CSS  
+- 🧪 Pytest, Git, GitHub, VS Code  
 
 ---
 
@@ -22,32 +24,31 @@ I'm actively looking for a **remote or hybrid entry-level role or internship in 
 
 I'm building a full-stack multi-tenant property management platform that allows agents and property owners to:
 
-- Track earnings and costs per property
-- View guest/reservation details
-- Upload photos and financial reports
-- See upcoming payments and rental income
+- Track earnings and costs per property  
+- View guest/reservation details  
+- Upload photos and financial reports  
+- See upcoming payments and rental income  
 
-**Built with:**
-- 🟦 TypeScript
-- 🚀 NestJS (backend)
-- ⚛️ Next.js (frontend)
-- 🐘 PostgreSQL
+**Built with:**  
+- 🟦 TypeScript  
+- 🚀 NestJS (backend)  
+- ⚛️ Next.js (frontend)  
+- 🐘 PostgreSQL  
 
 📌 [Repo coming soon – stay tuned!]  
-📸 Screenshots and live demo coming in the next update!
+📸 Screenshots and live demo coming in the next update!  
 
 ---
 
 ### 📬 Let's Connect
 
-I'm actively seeking an **entry-level software developer role** or **paid internship** — remote or hybrid in **Barcelona**.
+I'm actively seeking an **entry-level software developer role** or **paid internship** — remote or hybrid in **Barcelona**.  
 
-Feel free to reach out:
+Feel free to reach out:  
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/thomas-smallwood/)  
+- 📧 [Email me](mailto:tbm.smallwood@gmail.com)  
+- 💬 [Message me on WhatsApp](https://wa.me/34694288334)  
 
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/thomas-smallwood/)
-- 📧 [Email me](mailto:tbm.smallwood@gmail.com)
-- 💬 [Message me on WhatsApp](https://wa.me/34694288334)
-
-I’m always open to meaningful conversations, collaborations, or opportunities to grow as a developer.
+I’m always open to meaningful conversations, collaborations, or opportunities to grow as a developer.  
 
 Thanks for stopping by! 🚀
