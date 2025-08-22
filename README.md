@@ -6,7 +6,7 @@ I'm currently developing a real estate management platform under the mentorship 
 
 I'm actively looking for a **remote or hybrid entry-level role or internship in Barcelona** (or remote-friendly companies based in Europe).
 
-🌐 **Check out my portfolio:** [tsmalls33.github.io](https://tsmalls33.github.io)
+🌐 **Check out my portfolio:** [tbmsmallwood.com](https://www.tbmsmallwood.com)
 
 ---
 
