@@ -1,54 +1,40 @@
 # Hi, I'm Thomas 👋
 
-I'm a software developer with a background as a professional basketball player. Now, I'm channeling that same discipline and focus into writing clean, maintainable code and building real-world applications.
-
-I'm currently developing a real estate management platform under the mentorship of a senior engineer. I’m committed to building a solid foundation in both backend and full-stack development — no shortcuts.
-
-I'm actively looking for a **remote or hybrid entry-level role or internship in Barcelona** (or remote-friendly companies based in Europe).
-
-🌐 **Check out my portfolio:** [tbmsmallwood.com](https://www.tbmsmallwood.com)
+Junior Backend Developer at [@AtomLearning](https://www.atomlearning.com/) · Based in Barcelona 🌊
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 🟦 TypeScript (NestJS, Next.js)  
-- 🐘 PostgreSQL  
-- 🐍 Python (FastAPI, Flask)  
-- ⚛️ React, JavaScript, HTML, CSS  
-- 🧪 Pytest, Git, GitHub, VS Code  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux (Omarchy)](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
-### 💼 Current Project: Real Estate Management Platform
+### 🚀 Projects
 
-I'm building a full-stack multi-tenant property management platform that allows agents and property owners to:
-
-- Track earnings and costs per property  
-- View guest/reservation details  
-- Upload photos and financial reports  
-- See upcoming payments and rental income  
-
-**Built with:**  
-- 🟦 TypeScript  
-- 🚀 NestJS (backend)  
-- ⚛️ Next.js (frontend)  
-- 🐘 PostgreSQL  
-
-📌 [Repo coming soon – stay tuned!]  
-📸 Screenshots and live demo coming in the next update!  
+- **[real-estate-app-backend](https://github.com/tsmalls33/real-estate-app-backend)** — Backend for a multi-tenant real estate management platform · `TypeScript` `NestJS`
+- **[reservation-tracking-sheets](https://github.com/tsmalls33/reservation-tracking-sheets)** — CLI that automates reservation data processing from CSV to Google Sheets, generates invoices, and more · `Python`
 
 ---
 
-### 📬 Let's Connect
+### 📊 GitHub Stats
 
-I'm actively seeking an **entry-level software developer role** or **paid internship** — remote or hybrid in **Barcelona**.  
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsmalls33&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues)
 
-Feel free to reach out:  
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/thomas-smallwood/)  
-- 📧 [Email me](mailto:tbm.smallwood@gmail.com)  
-- 💬 [Message me on WhatsApp](https://wa.me/34694288334)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmalls33&layout=compact&hide_border=true&theme=tokyonight)
 
-I’m always open to meaningful conversations, collaborations, or opportunities to grow as a developer.  
+![GitHub Streak](https://streak-stats.demolab.com?user=tsmalls33&hide_border=true&theme=tokyonight)
 
-Thanks for stopping by! 🚀
+---
+
+[💼 LinkedIn](https://www.linkedin.com/in/thomas-smallwood/) · [🌐 Portfolio](https://www.tbmsmallwood.com) · [💬 WhatsApp](https://wa.me/34694288334)
+
